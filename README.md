@@ -4,16 +4,16 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >  
-<p> - 👨‍💻 Sou apaixonado por criar soluções inovadoras que realmente impactam a vida das pessoas.
+<p> - 👨🏻‍💻 Sou apaixonado por criar soluções inovadoras que realmente impactam a vida das pessoas.
  Trago um sólido histórico de 3 anos trabalhando com Java, Spring Boot, Angular e PL/SQL.
  Minha jornada inclui contribuições essenciais para projetos de grande escala, tanto no desenvolvimento de aplicações web quanto mobile. </p>
-<p> - 🎯 Interesse: Java, Spring Boot, API , Angular, JSF, PL/SQL, AWS e Docker . </p>
-<p> - 💭 Tive a oportunidade de participar de projetos movimentados, onde cada linha de código fazia a diferença.
+<p> - 🛠️  Interesse: Java, Spring Boot, API , Angular, JSF, PL/SQL, AWS e Docker . </p>
+<p> - 🌱  Tive a oportunidade de participar de projetos movimentados, onde cada linha de código fazia a diferença.
  Desde aplicações web até mobile, contribuí para soluções que lidavam com milhares de acessos diários.</p>
 
 </div> 
 
-## Minhas skills :nerd_face:
+## Minhas skills 🧠
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -31,7 +31,7 @@
 <div   
  </div>
     
-## Meus contatos :iphone:
+## Meus contatos 📲
     
 <div style="display: inline_block">
   <a href="https://github.com/EmanuelGaleno" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
