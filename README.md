@@ -5,11 +5,9 @@
 ### Sobre mim
 <div style="display: inline_block"  >  
 <p> - 👨🏻‍💻 Sou apaixonado por criar soluções inovadoras que realmente impactam a vida das pessoas.
- Trago um sólido histórico de 3 anos trabalhando com Java, Spring Boot, Angular e PL/SQL.
+ Trago um sólido histórico de 3 anos trabalhando com Java, Spring Boot, e PL/SQL.
  Minha jornada inclui contribuições essenciais para projetos de grande escala, tanto no desenvolvimento de aplicações web quanto mobile. </p>
-<p> - 🛠️  Interesse: Java, Spring Boot, API , Angular, JSF, PL/SQL, AWS e Docker . </p>
-<p> - 🌱  Tive a oportunidade de participar de projetos movimentados, onde cada linha de código fazia a diferença.
- Desde aplicações web até mobile, contribuí para soluções que lidavam com milhares de acessos diários.</p>
+<p> - 🛠️  Interesse: Java, Spring Boot, PL/SQL, AWS e Docker. </p>
 
 </div> 
 
