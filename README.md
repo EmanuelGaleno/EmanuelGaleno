@@ -1,8 +1,8 @@
-## Opa, tranquilo(a)? eu sou o Emanuel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Opa, tranquilo(a)?<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" width="250" height="220" style="border-radius:30px;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Sobre mim
+
 <div style="display: inline_block"  >  
 <p> - Hi! I'm Emanuel, a Backend Developer specializing in Spring 🍃 and Java ♨️
 <p> - Enthusiastic about designing reliable and high-performing systems 🚀</p>
