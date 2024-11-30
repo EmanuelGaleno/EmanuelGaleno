@@ -4,10 +4,9 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >  
-<p> - 👨🏻‍💻 Sou apaixonado por criar soluções inovadoras que realmente impactam a vida das pessoas.
- Trago um sólido histórico de 3 anos trabalhando com Java, Spring Boot, e PL/SQL.
- Minha jornada inclui contribuições essenciais para projetos de grande escala, tanto no desenvolvimento de aplicações web quanto mobile. </p>
-<p> - 🛠️  Interesse: Java, Spring Boot, PL/SQL, AWS e Docker. </p>
+<p> - Hi! I'm Emanuel, a Backend Developer specializing in Spring 🍃 and Java ♨️
+<p> - Enthusiastic about designing reliable and high-performing systems 🚀</p>
+<p> - Interesse: Java, Spring Boot, PL/SQL, AWS e Docker 🛠️</p>
 
 </div> 
 
