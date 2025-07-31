@@ -6,8 +6,6 @@
 <div style="display: inline_block"  >  
 <p> - Hi! I'm Emanuel, a Backend Developer specializing in Spring 🍃 and Java ♨️
 <p> - Enthusiastic about designing reliable and high-performing systems 🚀</p>
-<p> - Interesse: Java, Spring Boot, PL/SQL, AWS e Docker 🛠️</p>
-
 </div> 
 
 ## Skills 🧠
