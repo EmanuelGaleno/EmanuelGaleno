@@ -8,7 +8,7 @@
 
 ---
 
-## Skills 🧠
+## Skills
 <div style="display:inline-block;">
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -42,7 +42,7 @@
 
 ---
 
-## Social Media 📲
+## Social Media
 <div style="display:inline-block;">
   <!-- Coloque seu LinkedIn se quiser -->
   <!-- <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
