@@ -3,7 +3,7 @@
 
 <img align="right" width="250" height="220" style="border-radius:30px;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- **Backend Developer** especializado em **Spring 🍃** e **Java ♨️**
+- **Backend Developer** especializado em **Spring 🍃** e **Java ☕**
 - Curto **arquiteturas baseadas em serviços, microsserviços e mensageria** 🚀
 
 ---
