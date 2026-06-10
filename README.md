@@ -1,7 +1,13 @@
 <!-- Header -->
 <h2 align="left">Opa, tranquilo(a)? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" width="250" height="220" style="border-radius:30px;" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+<img
+  align="right"
+  width="300"
+  alt="Java Developer"
+  src="https://github.com/user-attachments/assets/9fca009b-a657-405e-91d1-27d5e480aacf"
+/>
 
 - **Backend Developer** especializado em **Spring 🍃** e **Java ☕**  
 - Curto **arquiteturas baseadas em serviços, microsserviços e mensageria** 🚀
